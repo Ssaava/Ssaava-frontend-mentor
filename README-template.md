@@ -46,13 +46,13 @@ I wish to share with you the process i went through when solving this challenge 
 First of all I joined this challenge when am a complete beginner that is have no prior knowledge inprogramming.
 #### I used internal CSS to complete the challenge therefore this means I only used one html file and this file only icluded html and css
 Below is my html code snippet:
-'''html
+```html
 	<div class="qr-div">
 		<img src="images/image-qr-code.png" alt="QR Code Image">
 		<h1>Improve your front end skills by building projects</h1>
 		<p>Scan the QR code to visit front end mentor and take your coding skills to the next level</p>
 	</div>
-'''
+```
 
 To see how you can add code snippets, see below:
 
