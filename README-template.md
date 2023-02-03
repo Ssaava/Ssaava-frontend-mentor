@@ -130,7 +130,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Ssava Smmanuel](ssaava.github.io/ssavamiles/)
+- Website - [Ssava Smmanuel](https://ssaava.github.io/ssavamiles/)
 - Frontend Mentor - [@Ssaava](https://www.frontendmentor.io/profile/Ssaava)
 - Twitter - [@pestcideUg](https://twitter.com/pestcideUg)
 
