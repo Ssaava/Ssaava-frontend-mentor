@@ -1,4 +1,5 @@
 # Frontend Mentor - QR code component
+link: https://ssaava.github.io/Ssaava-frontend-mentor/
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
