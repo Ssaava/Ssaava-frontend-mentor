@@ -35,19 +35,24 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- CSS3 custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I wish to share with you the process i went through when solving this challenge and I would be happy for your feed back
+First of all I joined this challenge when am a complete beginner that is have no prior knowledge inprogramming.
+#### I used internal CSS to complete the challenge therefore this means I only used one html file and this file only icluded html and css
+Below is my html code snippet:
+'''html
+	<div class="qr-div">
+		<img src="images/image-qr-code.png" alt="QR Code Image">
+		<h1>Improve your front end skills by building projects</h1>
+		<p>Scan the QR code to visit front end mentor and take your coding skills to the next level</p>
+	</div>
+'''
 
 To see how you can add code snippets, see below:
 
