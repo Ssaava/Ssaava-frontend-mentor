@@ -40,10 +40,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Mobile-first workflow
 
 
-### What I learned
+### What I learned when solving this challenge
 
-I wish to share with you the process i went through when solving this challenge and I would be happy for your feed back
-First of all I joined this challenge when am a complete beginner that is have no prior knowledge inprogramming.
+I wish to share with you the process i went through when solving this challenge and I would be happy for your feed back.
+First of all I joined this challenge when am a complete beginner that is have no prior knowledge inprogramming and I was able to get introduced to some css components which am about to share with you in the code snnipets in the next part.
+With the little experience i gained, i learnt that a even if the project is to small, it should be taken as a serious project by creating a folder for it
+and also managing all the work flow in that same folder. This helps to organize all the comppnents that are to be used in the project and also play a big role when it comes to uploading the project on github.
+
 #### I used internal CSS to complete the challenge therefore this means I only used one html file and this file only icluded html and css
 Below is my html code snippet:
 ```html
@@ -53,26 +56,64 @@ Below is my html code snippet:
 		<p>Scan the QR code to visit front end mentor and take your coding skills to the next level</p>
 	</div>
 ```
+#### The snippet below show how i was able to add css to the body of the html
 
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
+```css 
+* {
+		margin: 0;
+		box-sizing: border-box;
+		padding: 0;
+	}
+    body {
+		background-color: hsl(212, 45%, 89%);
+		font-family: 'Outfit', sans-serif;
+		height: 100vh;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
 ```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
+#### The snippet below show how I was able to style the paragraph element that I used in the html
+This paragraph tag contains simple instructions that you can follow to access frontend mentor website that I used to access this challenge.
+```css 
+	p {
+		font-size: 15px;
+		font-weight: 700px;
+		color: hsl(220, 15%, 55%);
+		text-align: center;
+	}
 ```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
+#### The snippet below shows the CSS code for the QR-code container that holds the QR-image and also the paragraph tag and the header tag
+```css 
+	.qr-div {
+		width: 310px;
+		height: fit-content;
+		margin: 0 auto;
+		background-color: hsl(0, 0%, 100%);
+		padding: 10px 10px 30px;
+		border-radius: 12px;
+	}
 ```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+#### The snippet below shows the CSS for the img element I used to add the image of the QR-code in the html
+```css 
+	img {
+		display: block;
+		width: 100%;
+		height: 310px;
+		margin: auto;
+		border-radius: 12px;
+	}
+```
+#### Finally is the CSS snippet for the  header tag that i used in the html which presents to you the information about the QR-image
+```css 
+	h1 {
+		color: hsl(218, 44%, 22%);
+		text-align: center;
+		margin: 20px 0;
+		font-size: 20px;
+		font-weight: 400px;
+	}
+```
 
 ### Continued development
 
