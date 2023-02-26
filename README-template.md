@@ -13,11 +13,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
+
 
 ### Screenshot
 
@@ -31,6 +29,26 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Live Site URL: ![👉 is here](https://ssaava.github.io/Ssaava-frontend-mentor/)
 
 ## My process
+Setting up the working environment for every developer is cruisial for any project you are ready to work on. I used VSCode editor to organize my code and then tested my output with google chrome browser. The tools I made sure where available for use in the project included Chrome extensions like whatfont, colorCilla and fianlly pestcide, these helped me organize the layout for my project.
+After organizing the working environment, I set up the boilerplate for my project (the skeleton for my project) and then set up the layout of the project using CSS flexbox and finally used internal styling to apply the styles for the layout of the project.
+#### Boiler plate code snipet
+``` html
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+	    <meta charset="UTF-8">
+	    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	    <title>QRCode Component</title>
+	    <style>
+
+	    </style>
+	</head>
+	<body>
+
+	</body>
+	</html>
+```
 
 ### Built with
 
@@ -117,25 +135,17 @@ This paragraph tag contains simple instructions that you can follow to access fr
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Having completed this chalenge, I have found out that i need to take more action in practicing more CSS layouts to produce beautiful designs for my projects. Also seen that consitency is the key to progress. 1% everyday = success for the coming days.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [Color Hunt]([https://www.example.com](https://colorhunt.co/)) - This site helped me to choose the colors to use in my challenge. I believe it is a collection of colors you need for your next project as a web developer.
+- [Font Family]([https://www.example.com](https://fonts.google.com/)) - This site helped me to choose the bext suitable font styles for my project. Visit site to choose the best font style for your next project.
 
 ## Author
 
-- Website - [Ssava Smmanuel](https://ssaava.github.io/ssavamiles/)
+- GitHub - [Ssava Smmanuel](https://ssaava.github.io/ssavamiles/)
 - Frontend Mentor - [@Ssaava](https://www.frontendmentor.io/profile/Ssaava)
-- Twitter - [@pestcideUg](https://twitter.com/pestcideUg)
+- Twitter - [@ssava_ema](https://twitter.com/ssava_ema)
 
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
