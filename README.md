@@ -26,7 +26,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: 👉 ![here](https://github.com/Ssaava/Ssaava-frontend-mentor)
-- Live Site URL: 👉 ![here](https://ssaava.github.io/Ssaava-frontend-mentor/)
 - Live Site: 👉 [here](https://ssaava.github.io/Ssaava-frontend-mentor/)
 ***
 - [Top](#top)
