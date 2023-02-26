@@ -9,13 +9,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned when solving this challenge](#what-i-learned)
+  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
-- [Top](#top)
+
 
 ### Screenshot
 
@@ -27,7 +27,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Solution URL: ![👉 here](https://github.com/Ssaava/Ssaava-frontend-mentor)
 - Live Site URL: ![👉 is here](https://ssaava.github.io/Ssaava-frontend-mentor/)
-
+***
+- [Top](#top)
 ## My process
 Setting up the working environment for every developer is cruisial for any project you are ready to work on. I used VSCode editor to organize my code and then tested my output with google chrome browser. The tools I made sure where available for use in the project included Chrome extensions like whatfont, colorCilla and fianlly pestcide, these helped me organize the layout for my project.
 After organizing the working environment, I set up the boilerplate for my project (the skeleton for my project) and then set up the layout of the project using CSS flexbox and finally used internal styling to apply the styles for the layout of the project.
@@ -49,7 +50,8 @@ After organizing the working environment, I set up the boilerplate for my projec
 	</body>
 	</html>
 ```
-
+- [Top](#top)
+- 
 ### Built with
 
 - Semantic HTML5 markup
@@ -58,7 +60,7 @@ After organizing the working environment, I set up the boilerplate for my projec
 - Mobile-first workflow
 
 
-### What I learned when solving this challenge
+### What I learned
 
 I wish to share with you the process i went through when solving this challenge and I would be happy for your feed back.
 First of all I joined this challenge when am a complete beginner that is have no prior knowledge inprogramming and I was able to get introduced to some css components which am about to share with you in the code snnipets in the next part.
@@ -132,7 +134,8 @@ This paragraph tag contains simple instructions that you can follow to access fr
 		font-weight: 400px;
 	}
 ```
-
+- [Top](#top)
+- 
 ### Continued development
 
 Having completed this chalenge, I have found out that i need to take more action in practicing more CSS layouts to produce beautiful designs for my projects. Also seen that consitency is the key to progress. 1% everyday = success for the coming days.
@@ -148,4 +151,5 @@ Having completed this chalenge, I have found out that i need to take more action
 - GitHub - [Ssava Smmanuel](https://ssaava.github.io/ssavamiles/)
 - Frontend Mentor - [@Ssaava](https://www.frontendmentor.io/profile/Ssaava)
 - Twitter - [@ssava_ema](https://twitter.com/ssava_ema)
-
+***
+- [Top](#top)
