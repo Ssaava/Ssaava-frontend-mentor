@@ -9,13 +9,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+  - [What I learned when solving this challenge](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
-- [Table of contents](#back-to-top)
+- [Top](#top)
 
 ### Screenshot
 
