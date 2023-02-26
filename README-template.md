@@ -50,15 +50,15 @@ After organizing the working environment, I set up the boilerplate for my projec
 	</body>
 	</html>
 ```
-- [Top](#top)
-- 
+ 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS3 custom properties
 - Flexbox
 - Mobile-first workflow
-
+***
+ [Top](#top)
 
 ### What I learned
 
@@ -134,8 +134,9 @@ This paragraph tag contains simple instructions that you can follow to access fr
 		font-weight: 400px;
 	}
 ```
-- [Top](#top)
-- 
+***
+ [Top](#top)
+
 ### Continued development
 
 Having completed this chalenge, I have found out that i need to take more action in practicing more CSS layouts to produce beautiful designs for my projects. Also seen that consitency is the key to progress. 1% everyday = success for the coming days.
@@ -152,4 +153,4 @@ Having completed this chalenge, I have found out that i need to take more action
 - Frontend Mentor - [@Ssaava](https://www.frontendmentor.io/profile/Ssaava)
 - Twitter - [@ssava_ema](https://twitter.com/ssava_ema)
 ***
-- [Top](#top)
+ [Top](#top)
